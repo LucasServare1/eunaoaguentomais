@@ -103,5 +103,5 @@ footer{
     align-items: center;
     justify-content: space-around;
     position: fixed;
-    bottom: auto;
+    bottom: 0;
 }
